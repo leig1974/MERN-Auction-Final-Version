@@ -28,7 +28,9 @@ A full stack auction website created using the MERN Stack
 Auction Website created by InovaTech Inc.
 
 ## DESCRIPTION
-
+Following criteris met: 
+-protect sensitive API key information on serer.
+-included README file( with text, desription. screebshorts, link of deployed app)
 
 ## INSTALLATION
 
@@ -64,7 +66,15 @@ npm run dev
 
 Project is created with:
 
-- JavaScript, React, Redux, MongoDB, Node.js, Express, HTML, Sass, Jest, Socket.IO
+-React as front end.
+-GraphQL with a Node.js and Express.js server.
+-databases: MongoDB and Mongoose ODM.
+-Queries and utations used for retrieving, adding, updating and deleting data.
+-polished UI used.
+-deployed using Heroku.
+-it is interactive , accepts and responds to user input.
+-Auhtntication included.
+ 
 
 ## Tests
 
